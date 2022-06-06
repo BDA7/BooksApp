@@ -7,6 +7,25 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1F164A99284C0D75000D9379 /* PDFViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F164A98284C0D75000D9379 /* PDFViewController.swift */; };
+		1F164A9B284C0DA8000D9379 /* OutlineTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F164A9A284C0DA8000D9379 /* OutlineTableViewController.swift */; };
+		1F164A9F284C12B4000D9379 /* BookCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F164A9E284C12B4000D9379 /* BookCollectionViewCell.swift */; };
+		1F164AA3284C15EA000D9379 /* oblomov.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 1F164AA2284C15EA000D9379 /* oblomov.pdf */; };
+		1F164AA5284C15F0000D9379 /* dubrovskiy.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 1F164AA4284C15F0000D9379 /* dubrovskiy.pdf */; };
+		1F164AA7284C15F6000D9379 /* dochka.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 1F164AA6284C15F6000D9379 /* dochka.pdf */; };
+		1F164AA9284C15FB000D9379 /* igrok.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 1F164AA8284C15FB000D9379 /* igrok.pdf */; };
+		1F164AAB284C1604000D9379 /* taras.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 1F164AAA284C1604000D9379 /* taras.pdf */; };
+		1F164AAD284C1609000D9379 /* onegin.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 1F164AAC284C1609000D9379 /* onegin.pdf */; };
+		1F164AAF284C160E000D9379 /* besy.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 1F164AAE284C160E000D9379 /* besy.pdf */; };
+		1F164AB1284C1613000D9379 /* dvor.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 1F164AB0284C1613000D9379 /* dvor.pdf */; };
+		1F164AB3284C161A000D9379 /* idiot.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 1F164AB2284C161A000D9379 /* idiot.pdf */; };
+		1F164AB5284C17A0000D9379 /* ya.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 1F164AB4284C17A0000D9379 /* ya.pdf */; };
+		1F164AB7284C17A5000D9379 /* odisseya.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 1F164AB6284C17A5000D9379 /* odisseya.pdf */; };
+		1F164AB9284C17AA000D9379 /* revizor.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 1F164AB8284C17AA000D9379 /* revizor.pdf */; };
+		1F164ABB284C17AF000D9379 /* drakula.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 1F164ABA284C17AF000D9379 /* drakula.pdf */; };
+		1F164ABD284C17B5000D9379 /* iliada.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 1F164ABC284C17B5000D9379 /* iliada.pdf */; };
+		1F164ABF284C17BC000D9379 /* zapiski.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 1F164ABE284C17BC000D9379 /* zapiski.pdf */; };
+		1F164AC1284C17C3000D9379 /* nedorosl.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 1F164AC0284C17C3000D9379 /* nedorosl.pdf */; };
 		1FDE43EA284C08C0009C7E55 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FDE43E9284C08C0009C7E55 /* AppDelegate.swift */; };
 		1FDE43EC284C08C0009C7E55 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FDE43EB284C08C0009C7E55 /* SceneDelegate.swift */; };
 		1FDE43EE284C08C0009C7E55 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FDE43ED284C08C0009C7E55 /* ViewController.swift */; };
@@ -16,6 +35,26 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1F164A98284C0D75000D9379 /* PDFViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PDFViewController.swift; sourceTree = "<group>"; };
+		1F164A9A284C0DA8000D9379 /* OutlineTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OutlineTableViewController.swift; sourceTree = "<group>"; };
+		1F164A9E284C12B4000D9379 /* BookCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookCollectionViewCell.swift; sourceTree = "<group>"; };
+		1F164AA1284C13DE000D9379 /* prest.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = prest.pdf; sourceTree = "<group>"; };
+		1F164AA2284C15EA000D9379 /* oblomov.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = oblomov.pdf; path = ../../../../Downloads/oblomov.pdf; sourceTree = "<group>"; };
+		1F164AA4284C15F0000D9379 /* dubrovskiy.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = dubrovskiy.pdf; path = ../../../../Downloads/dubrovskiy.pdf; sourceTree = "<group>"; };
+		1F164AA6284C15F6000D9379 /* dochka.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = dochka.pdf; path = ../../../../Downloads/dochka.pdf; sourceTree = "<group>"; };
+		1F164AA8284C15FB000D9379 /* igrok.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = igrok.pdf; path = ../../../../Downloads/igrok.pdf; sourceTree = "<group>"; };
+		1F164AAA284C1604000D9379 /* taras.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = taras.pdf; path = ../../../../Downloads/taras.pdf; sourceTree = "<group>"; };
+		1F164AAC284C1609000D9379 /* onegin.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = onegin.pdf; path = ../../../../Downloads/onegin.pdf; sourceTree = "<group>"; };
+		1F164AAE284C160E000D9379 /* besy.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = besy.pdf; path = ../../../../Downloads/besy.pdf; sourceTree = "<group>"; };
+		1F164AB0284C1613000D9379 /* dvor.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = dvor.pdf; path = ../../../../Downloads/dvor.pdf; sourceTree = "<group>"; };
+		1F164AB2284C161A000D9379 /* idiot.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = idiot.pdf; path = ../../../../Downloads/idiot.pdf; sourceTree = "<group>"; };
+		1F164AB4284C17A0000D9379 /* ya.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = ya.pdf; path = ../../../../Downloads/ya.pdf; sourceTree = "<group>"; };
+		1F164AB6284C17A5000D9379 /* odisseya.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = odisseya.pdf; path = ../../../../Downloads/odisseya.pdf; sourceTree = "<group>"; };
+		1F164AB8284C17AA000D9379 /* revizor.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = revizor.pdf; path = ../../../../Downloads/revizor.pdf; sourceTree = "<group>"; };
+		1F164ABA284C17AF000D9379 /* drakula.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = drakula.pdf; path = ../../../../Downloads/drakula.pdf; sourceTree = "<group>"; };
+		1F164ABC284C17B5000D9379 /* iliada.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = iliada.pdf; path = ../../../../Downloads/iliada.pdf; sourceTree = "<group>"; };
+		1F164ABE284C17BC000D9379 /* zapiski.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = zapiski.pdf; path = ../../../../Downloads/zapiski.pdf; sourceTree = "<group>"; };
+		1F164AC0284C17C3000D9379 /* nedorosl.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = nedorosl.pdf; path = ../../../../Downloads/nedorosl.pdf; sourceTree = "<group>"; };
 		1FDE43E6284C08C0009C7E55 /* BooksApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BooksApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1FDE43E9284C08C0009C7E55 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1FDE43EB284C08C0009C7E55 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -37,6 +76,30 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		1F164AA0284C13D6000D9379 /* Books */ = {
+			isa = PBXGroup;
+			children = (
+				1F164AC0284C17C3000D9379 /* nedorosl.pdf */,
+				1F164ABE284C17BC000D9379 /* zapiski.pdf */,
+				1F164ABC284C17B5000D9379 /* iliada.pdf */,
+				1F164ABA284C17AF000D9379 /* drakula.pdf */,
+				1F164AB8284C17AA000D9379 /* revizor.pdf */,
+				1F164AB6284C17A5000D9379 /* odisseya.pdf */,
+				1F164AB4284C17A0000D9379 /* ya.pdf */,
+				1F164AB2284C161A000D9379 /* idiot.pdf */,
+				1F164AB0284C1613000D9379 /* dvor.pdf */,
+				1F164AAE284C160E000D9379 /* besy.pdf */,
+				1F164AAC284C1609000D9379 /* onegin.pdf */,
+				1F164AAA284C1604000D9379 /* taras.pdf */,
+				1F164AA8284C15FB000D9379 /* igrok.pdf */,
+				1F164AA6284C15F6000D9379 /* dochka.pdf */,
+				1F164AA4284C15F0000D9379 /* dubrovskiy.pdf */,
+				1F164AA2284C15EA000D9379 /* oblomov.pdf */,
+				1F164AA1284C13DE000D9379 /* prest.pdf */,
+			);
+			path = Books;
+			sourceTree = "<group>";
+		};
 		1FDE43DD284C08BF009C7E55 = {
 			isa = PBXGroup;
 			children = (
@@ -56,6 +119,7 @@
 		1FDE43E8284C08C0009C7E55 /* BooksApp */ = {
 			isa = PBXGroup;
 			children = (
+				1F164AA0284C13D6000D9379 /* Books */,
 				1FDE43E9284C08C0009C7E55 /* AppDelegate.swift */,
 				1FDE43EB284C08C0009C7E55 /* SceneDelegate.swift */,
 				1FDE43ED284C08C0009C7E55 /* ViewController.swift */,
@@ -63,6 +127,9 @@
 				1FDE43F2284C08E2009C7E55 /* Assets.xcassets */,
 				1FDE43F4284C08E2009C7E55 /* LaunchScreen.storyboard */,
 				1FDE43F7284C08E2009C7E55 /* Info.plist */,
+				1F164A98284C0D75000D9379 /* PDFViewController.swift */,
+				1F164A9A284C0DA8000D9379 /* OutlineTableViewController.swift */,
+				1F164A9E284C12B4000D9379 /* BookCollectionViewCell.swift */,
 			);
 			path = BooksApp;
 			sourceTree = "<group>";
@@ -125,9 +192,25 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1F164AA7284C15F6000D9379 /* dochka.pdf in Resources */,
+				1F164AAF284C160E000D9379 /* besy.pdf in Resources */,
+				1F164AB5284C17A0000D9379 /* ya.pdf in Resources */,
+				1F164AA5284C15F0000D9379 /* dubrovskiy.pdf in Resources */,
+				1F164AB9284C17AA000D9379 /* revizor.pdf in Resources */,
 				1FDE43F6284C08E2009C7E55 /* LaunchScreen.storyboard in Resources */,
+				1F164ABB284C17AF000D9379 /* drakula.pdf in Resources */,
 				1FDE43F3284C08E2009C7E55 /* Assets.xcassets in Resources */,
+				1F164AA3284C15EA000D9379 /* oblomov.pdf in Resources */,
+				1F164AA9284C15FB000D9379 /* igrok.pdf in Resources */,
+				1F164AC1284C17C3000D9379 /* nedorosl.pdf in Resources */,
 				1FDE43F1284C08C0009C7E55 /* Main.storyboard in Resources */,
+				1F164ABD284C17B5000D9379 /* iliada.pdf in Resources */,
+				1F164AB3284C161A000D9379 /* idiot.pdf in Resources */,
+				1F164AAD284C1609000D9379 /* onegin.pdf in Resources */,
+				1F164ABF284C17BC000D9379 /* zapiski.pdf in Resources */,
+				1F164AAB284C1604000D9379 /* taras.pdf in Resources */,
+				1F164AB7284C17A5000D9379 /* odisseya.pdf in Resources */,
+				1F164AB1284C1613000D9379 /* dvor.pdf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -141,6 +224,9 @@
 				1FDE43EE284C08C0009C7E55 /* ViewController.swift in Sources */,
 				1FDE43EA284C08C0009C7E55 /* AppDelegate.swift in Sources */,
 				1FDE43EC284C08C0009C7E55 /* SceneDelegate.swift in Sources */,
+				1F164A9F284C12B4000D9379 /* BookCollectionViewCell.swift in Sources */,
+				1F164A99284C0D75000D9379 /* PDFViewController.swift in Sources */,
+				1F164A9B284C0DA8000D9379 /* OutlineTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -295,6 +381,7 @@
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -304,7 +391,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 2;
 			};
 			name = Debug;
 		};
@@ -323,6 +410,7 @@
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -332,7 +420,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 2;
 			};
 			name = Release;
 		};
